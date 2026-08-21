@@ -68,7 +68,24 @@ A versão atual foi desenvolvida e testada em:
 Windows
 Python 3.12
 faster-whisper 1.2.1
-Instalação pelo código-fonte
+
+## Instalação fácil no Windows
+
+Para usuários do Windows que não desejam executar os comandos manualmente:
+
+1. Baixe ou clone o repositório do Transcritum.
+2. Execute o arquivo `instalar.bat`.
+3. Aguarde a instalação automática das dependências.
+4. Depois da instalação, execute `transcritum.bat` sempre que quiser abrir o programa.
+
+O arquivo `instalar.bat` precisa ser executado apenas na primeira instalação.
+
+Depois disso, basta abrir:
+
+```text
+transcritum.bat
+
+#Instalação pelo código-fonte
 
 Clone o repositório:
 
@@ -155,5 +172,5 @@ GitHub: alineoceanica
 
 Versão
 
-v1.0.0
+v1.0.1
 
