@@ -146,5 +146,5 @@ Versão
 
 
 
-Versão 1.0 — em desenvolvimento
+Versão 1.0.0
 

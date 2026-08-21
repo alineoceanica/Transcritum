@@ -9,8 +9,7 @@ from faster_whisper import WhisperModel
 
 APP_NAME = "Transcritum"
 APP_BRAND = "Verum Scientia"
-APP_VERSION = "1.0"
-
+APP_VERSION = "1.0.0"
 EXTENSOES_AUDIO = {".m4a", ".mp3", ".wav", ".m4b"}
 
 
