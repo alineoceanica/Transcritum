@@ -1,0 +1,28 @@
+# Ambiente virtual
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Backups locais
+*_backup.py
+
+# Cache e modelos
+.cache/
+huggingface/
+models/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Sistema
+Thumbs.db
+.DS_Store
