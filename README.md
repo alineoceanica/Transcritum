@@ -126,7 +126,7 @@ Transcritum — Verum Scientia é um projeto de código aberto.
 
 
 
-Licença prevista: GNU General Public License v3.0 (GPLv3).
+Licença: GNU General Public License v3.0 (GPLv3).
 
 
 
